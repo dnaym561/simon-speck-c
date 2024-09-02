@@ -1,0 +1,1 @@
+/mingw64/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/speck128128ecb.dir/speck128128ecb.o -o speck128128ecb.exe -Wl,--out-implib,libspeck128128ecb.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lspeck
